@@ -1,2 +1,2 @@
-# CodeGen
+# CodeGenApp
 A barcode generator
